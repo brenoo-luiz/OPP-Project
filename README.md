@@ -1,2 +1,2 @@
 # Trabalho Java
- Foi feito um  elevador com java (principios de POO)
+Projects developed during the Object-Oriented Programming subject – third semester of the Control and Automation Engineering course at the Federal University of Santa Catarina (UFSC).
